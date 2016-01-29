@@ -1,0 +1,9 @@
+{
+  "name": "autoReload",
+  "version": "1.0.0",
+  "description": "autoReloadBrowser",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
